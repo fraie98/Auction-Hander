@@ -1,7 +1,7 @@
 # AuctionHandler
 Project for ***Distributed Systems And Middleware Technologies*** - University of Pisa.
 
-AuctionHandler is a distributed application which allow registered users to create/enter online auctions in order to sell/buy goods.
+AuctionHandler is a distributed application which allows registered users to create/enter online auctions in order to sell/buy goods.
 
 The main technologies used are:
 
